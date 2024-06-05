@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 😄
 
-<!--
-**Rafasntz/Rafasntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rafael santana de souza 
+- estou estudando na alura e estou com sono 😴
+- estou me desenvolvendo na linguagem JavaScript
+- esse espaço  de apresentação de meu perfil e compartilhamento de projetos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entrar em contato comigo🗳️
+Gmail : 00001106163461sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/5gbuzpY8cHkAAAAC/rockstar-rockstar-games.gif)
+
+
+[Alura]https://www.alura.com.br)
